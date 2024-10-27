@@ -15,9 +15,8 @@ The main objective of this project is to analyze retail sales data to gain actio
 4. [Analysis Questions](#analysis-questions)
 5. [Technologies Used](#technologies-used)
 6. [How to Use](#how-to-use)
-7. [Project Setup](#project-setup)
-8. [Explanation](#explanation)
-9. [Acknowledgements](#acknowledgements)
+7. [Explanation](#explanation)
+8. [Acknowledgements](#acknowledgements)
 
 ## Dashboard Overview
 The **Coffee Shop Sales Dashboard** includes the following sections and visualizations:
