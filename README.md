@@ -85,25 +85,6 @@ The **Coffee Shop Sales Dashboard** includes the following sections and visualiz
 2. **Hover on Charts**: Hover over parts of the charts to view detailed information on sales, footfall, and percentages.
 3. **Reference KPIs**: Quickly see performance metrics like total sales and footfall.
 
-## Project Setup
-To view or modify this dashboard:
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/coffeeshop-sales-dashboard.git
-2. **Open in Excel**:
-
-Launch Microsoft Excel.
-Open the Coffee_Shop_Sales_Dashboard.xlsx file from the cloned repository.
-
-3. **Connect to Data**:
-
-Ensure the sales and footfall data is in the required format (Excel, CSV, etc.).
-Update any data source settings if necessary.
-
-4. **Run the Dashboard**:
-
-Interact with the dashboard using the filters and hover features to explore the data.
-
 ## Explanation
 During the development of this project, I learned how to effectively visualize retail sales data and extract actionable insights. The process involved understanding data analysis principles, mastering Excel's visualization tools, and implementing interactive features that enhance user experience. This project has reinforced my skills in data analytics and will be valuable for future endeavors.
 
